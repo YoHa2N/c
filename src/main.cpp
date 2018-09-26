@@ -12,8 +12,10 @@ int main() {
 	cout << "multiplication: " << a.multiplication(10,10) << std::endl;
 	cout << "division: " << a.division(10,2) << endl;
 	cout << "soustraction: " << a.soustraction(50,15) << endl;
+	
 	//ecole date;
 	//std::cout << "L'année de création est " << date.annee(1950) << std::endl;
+	
 	return 0; 
 
 }
